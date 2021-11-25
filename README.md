@@ -1,7 +1,8 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work \p
-Prueba que funciona añadir text al README.md
+This repository is for showing how Git and GitHub work.
+Prueba que funciona añadir text al README.md.
+Otra línea
 
 
 ## Introduction
