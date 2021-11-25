@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work.
+This repository is for showing how Git and GitHub work. CR LF
 Prueba que funciona añadir text al README.md.
 Otra línea
 
