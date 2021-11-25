@@ -21,3 +21,5 @@ Sample website with plenty of files for demos
 Más texto en deployment part <br />
 
 ## How To Contribute
+
+Limiting Comparsons to one File (or path)
