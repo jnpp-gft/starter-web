@@ -23,3 +23,7 @@ Más texto en deployment part <br />
 ## How To Contribute
 
 Limiting Comparsons to one File (or path)
+
+### Copyright
+
+2021 jnpp 
