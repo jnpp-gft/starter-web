@@ -7,6 +7,8 @@ Otra línea
 
 ## Introduction
 
+Ejemplo para ver las diferentes partes.
+Hará salto de línea?
 
 ## Purpose
 
