@@ -23,6 +23,7 @@ Más texto en deployment part <br />
 ## How To Contribute
 
 Limiting Comparsons to one File (or path)
+Por favor, forkea este repo and pull request
 
 ### Copyright
 
