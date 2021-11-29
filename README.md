@@ -29,4 +29,4 @@ Por favor, forkea este repo and pull request
 
 ### Copyright
 
-2021 jnpp 
+2021 jnpp . Todos lo derechos reservados
